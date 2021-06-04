@@ -19,7 +19,7 @@ Go to the path and execute the command:
 
 ```expo install```
 
-#Execute
+# Execute
 
 ```expo start``` 
 
